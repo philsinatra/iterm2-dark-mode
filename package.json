@@ -1,0 +1,21 @@
+{
+	"name": "iterm2-dark-mode",
+	"description": "iTerm2 theme built for macOS dark mode",
+	"homepage": "https://github.com/philsinatra/iterm2-dark-mode.git#readme",
+	"version": "0.1.0",
+	"author": {
+		"email": "code@philsinatra.com",
+		"name": "Phil Sinatra",
+		"url": "philsinatra.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/philsinatra/iterm2-dark-mode.git"
+	},
+	"bugs": {
+		"url": "https://github.com/philsinatra/iterm2-dark-mode/issues"
+	},
+	"keywords": ["dark-mode", "iterm2", "iterm2-theme"],
+	"files": ["dark-mode.itermcolors"],
+	"license": "MIT"
+}
